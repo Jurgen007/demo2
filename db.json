@@ -1,15 +1,15 @@
 {
   "user": {
     "id": 1,
-    "name": "Brian Voong",
-    "username": "brianvoong"
+    "name": "Raf Dur",
+    "username": "Rafakafada"
   },
   "videos": [
     {
       "id": 1,
       "name": "Rysy, 2499m n.p.m, Tatry, Zdobyte: 2021-06-11",
       "link": "https://www.letsbuildthatapp.com/course/instagram-firebase",
-      "imageUrl": "https://i.ibb.co/5GfnkBw/Rysy-Tests.png",
+      "imageUrl": "https://i.ibb.co/ZYtn8JP/Rysy-stamp-TRANSPARENT-V3-end.png",
       "channel": {
         "name": "Spica Tatraverein",
         "profileimageUrl": "https://i.ibb.co/TmVjh31/SPICA-LOGO-full.png",
