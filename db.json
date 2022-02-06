@@ -4,78 +4,104 @@
     "name": "Raf Dur",
     "username": "Rafakafada"
   },
-  "videos": [
+  "achievments": [
     {
       "id": 1,
-      "name": "Rysy, 2499m n.p.m, Tatry, Zdobyte: 2021-06-11",
-      "link": "https://www.letsbuildthatapp.com/course/instagram-firebase",
-      "imageUrl": "https://i.ibb.co/ZYtn8JP/Rysy-stamp-TRANSPARENT-V3-end.png",
-      "channel": {
-        "name": "Spica Tatraverein",
-        "profileimageUrl": "https://i.ibb.co/Cm02KhY/SPICA-LOGO-7-corr-done-blue-ALL.png",
-        "numberOfSubscribers": 100000
+      "dateOfAchievment":"2021-06-11 21:30:55",
+      "stampUrl": "https://i.ibb.co/ZYtn8JP/Rysy-stamp-TRANSPARENT-V3-end.png",
+      "dataSpica": {
+        "projectName": "Spica Tatraverein",
+        "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png",
       },
-      "numberOfViews": 20000
+
+        "dataMountain": {
+        "name": "Rysy",
+        "cordillera": "Tatry",
+        "stamp": "2Qgr2NgQ",
+        "taghash": "7Rc$9Ug&",
+
+      },
+
+        "numbersMountain": {
+        "height": "2499",
+        "points": "25",
+
+      },
+
+      "positionMountain": {
+        "latitudeMin": "49.179215",
+        "latitudeMax": "49.179395",
+        "longitudeMin": "20.088307",
+        "longitudeMax": "20.088581",
+        "latitudeOfUser": "49.179306",
+        "longitudeOfUser": "20.088444",
+      },
     },
+
     {
       "id": 2,
-      "name": "Rysy, 2499m n.p.m, Tatry, Zdobyte: 2021-02-02",
-      "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
-      "imageUrl": "https://i.ibb.co/ZYtn8JP/Rysy-stamp-TRANSPARENT-V3-end.png",
-      "channel": {
-        "name": "Spica Tatraverein",
-        "profileimageUrl": "https://i.ibb.co/vBrh18k/SPICA-LOGO-7-corr-done-blue-FULL-COLOR.png",
-        "numberOfSubscribers": 100000
+      "dateOfAchievment":"2021-04-21 09:30:55",
+      "stampUrl": "https://i.ibb.co/NjJs7N6/Sokolica-stamp-TRANSPARENT-V3-end.png",
+      "dataSpica": {
+        "projectName": "Spica Tatraverein",
+        "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png",
       },
-      "numberOfViews": 5000
+
+        "dataMountain": {
+        "name": "Sokolica",
+        "cordillera": "Pieniny",
+        "stamp": "2Kqg7HyU",
+        "taghash": "9Iz.7Rs'",
+
+      },
+
+        "numbersMountain": {
+        "height": "747",
+        "points": "17",
+
+      },
+
+      "positionMountain": {
+        "latitudeMin": "49.41741",
+        "latitudeMax": "49.417589",
+        "longitudeMin": "20.440555",
+        "longitudeMax": "20.440417",
+        "latitudeOfUser": "49.4175",
+        "longitudeOfUser": "20.440555",
+      },
     },
+
     {
       "id": 3,
-      "name": "Sokolica, 747m n.p.m, Pieniny, Zdobyte: 2020-11-11",
-      "link": "https://www.letsbuildthatapp.com/basic-training",
-      "imageUrl": "https://i.ibb.co/NjJs7N6/Sokolica-stamp-TRANSPARENT-V3-end.png",
-      "channel": {
-        "name": "Spica Tatraverein",
-        "profileimageUrl": "https://i.ibb.co/r3VsTPw/SPICA-LOGO-7-corr-done-blue-ROUND.png",
-        "numberOfSubscribers": 100000
+      "dateOfAchievment":"2021-02-21 10:30:55",
+      "stampUrl": "https://i.ibb.co/6tP208f/Turbacz-stamp-TRANSPARENT-V3-end.png",
+      "dataSpica": {
+        "projectName": "Spica Tatraverein",
+        "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png",
       },
-      "numberOfViews": 7500
-    },
-        {
-      "id": 4,
-      "name": "Sokolica, 747m n.p.m, Pieniny, Zdobyte: 2020-09-11",
-      "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
-      "imageUrl": "https://i.ibb.co/NjJs7N6/Sokolica-stamp-TRANSPARENT-V3-end.png",
-      "channel": {
-        "name": "Spica Tatraverein",
-        "profileimageUrl": "https://i.ibb.co/dm1NKKx/SPICA-LOGO-7-corr-done-blue-ROUND-S.png",
-        "numberOfSubscribers": 100000
+
+        "dataMountain": {
+        "name": "Turbacz",
+        "cordillera": "Gorce",
+        "stamp": "8Smc3ZyZ",
+        "taghash": "6Xa+9Qy%",
+
       },
-      "numberOfViews": 5000
-    },
-        {
-      "id": 5,
-      "name": "Dinkowa Górka, 4m n.p.m, Góry Isepskie, Zdobyte: 2020-05-01",
-      "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
-      "imageUrl": "https://i.ibb.co/PQGvKtZ/Travolta-stamp-TRANSPARENT-V3-end.png",
-      "channel": {
-        "name": "Spica Tatraverein",
-        "profileimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png",
-        "numberOfSubscribers": 100000
+
+        "numbersMountain": {
+        "height": "747",
+        "points": "17",
+
       },
-      "numberOfViews": 5000
-    },
-        {
-      "id": 6,
-      "name": "Turbacz, 1310m n.p.m, Gorce, Zdobyte: 2020-03-01",
-      "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
-      "imageUrl": "https://i.ibb.co/6tP208f/Turbacz-stamp-TRANSPARENT-V3-end.png",
-      "channel": {
-        "name": "Spica Tatraverein",
-        "profileimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png",
-        "numberOfSubscribers": 100000
-      },
-      "numberOfViews": 5000
+
+      "positionMountain": {
+        "latitudeMin": "49.542854",
+        "latitudeMax": "49.543034",
+        "longitudeMin": "20.11125",
+        "longitudeMax": "20.111527",
+        "latitudeOfUser": "49.542944",
+        "longitudeOfUser": "20.111388",
+      }
     }
   ]
 }
