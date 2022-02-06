@@ -5,102 +5,76 @@
     "username": "Rafakafada"
   },
   "achievments": [
+
     {
       "id": 1,
+      "idControlCode": "#SF1AP89GA",
       "dateOfAchievment":"2021-06-11 21:30:55",
+      "latitudeOfUser": "49.179306f",
+      "longitudeOfUser": "20.088444f",
       "stampUrl": "https://i.ibb.co/ZYtn8JP/Rysy-stamp-TRANSPARENT-V3-end.png",
-      "dataSpica": {
-        "projectName": "Spica Tatraverein",
-        "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png"
-      },
+      "projectName": "Spica Trekking",
+      "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png",
 
-        "dataMountain": {
+      "dataMountain": {
         "name": "Rysy",
         "cordillera": "Tatry",
         "stamp": "2Qgr2NgQ",
-        "taghash": "7Rc$9Ug&"
-
-      },
-
-        "numbersMountain": {
+        "taghash": "7Rc$9Ug&",
         "height": "2499",
-        "points": "25"
-
-      },
-
-      "positionMountain": {
-        "latitudeMin": "49.179215",
-        "latitudeMax": "49.179395",
-        "longitudeMin": "20.088307",
-        "longitudeMax": "20.088581",
-        "latitudeOfUser": "49.179306",
-        "longitudeOfUser": "20.088444"
-      },
+        "points": "25",
+        "latitudeMin": "49.179215f",
+        "latitudeMax": "49.179395f",
+        "longitudeMin": "20.088307f",
+        "longitudeMax": "20.088581f"
+      }
     },
 
     {
       "id": 2,
+      "idControlCode": "#SF1AP89GA",
       "dateOfAchievment":"2021-04-21 09:30:55",
+      "latitudeOfUser": "49.4175f",
+      "longitudeOfUser": "20.440555f",
       "stampUrl": "https://i.ibb.co/NjJs7N6/Sokolica-stamp-TRANSPARENT-V3-end.png",
-      "dataSpica": {
-        "projectName": "Spica Tatraverein",
-        "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png"
-      },
+      "projectName": "Spica Trekking",
+      "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png",
 
-        "dataMountain": {
+      "dataMountain": {
         "name": "Sokolica",
         "cordillera": "Pieniny",
         "stamp": "2Kqg7HyU",
-        "taghash": "9Iz.7Rs'"
-
-      },
-
-        "numbersMountain": {
+        "taghash": "9Iz.7Rs'",
         "height": "747",
-        "points": "17"
-
-      },
-
-      "positionMountain": {
-        "latitudeMin": "49.41741",
-        "latitudeMax": "49.417589",
-        "longitudeMin": "20.440555",
-        "longitudeMax": "20.440417",
-        "latitudeOfUser": "49.4175",
-        "longitudeOfUser": "20.440555"
-      },
+        "points": "17",
+        "latitudeMin": "49.41741f",
+        "latitudeMax": "49.417589f",
+        "longitudeMin": "20.440555f",
+        "longitudeMax": "20.440417f"
+      }
     },
 
     {
       "id": 3,
+      "idControlCode": "#SF1AP8DSA",
       "dateOfAchievment":"2021-02-21 10:30:55",
+      "latitudeOfUser": "49.542944f",
+      "longitudeOfUser": "20.111388f",
       "stampUrl": "https://i.ibb.co/6tP208f/Turbacz-stamp-TRANSPARENT-V3-end.png",
-      "dataSpica": {
-        "projectName": "Spica Tatraverein",
-        "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png"
-      },
+      "projectName": "Spica Trekking",
+      "logoimageUrl": "https://i.ibb.co/PQbhLYX/SPICA-LOGO-7-corr-done-blue-ROUND-Spica-2.png",
 
-        "dataMountain": {
+      "dataMountain": {
         "name": "Turbacz",
         "cordillera": "Gorce",
         "stamp": "8Smc3ZyZ",
-        "taghash": "6Xa+9Qy%"
-
-      },
-
-        "numbersMountain": {
-        "height": "747",
-        "points": "17"
-
-      },
-
-      "positionMountain": {
-        "latitudeMin": "49.542854",
-        "latitudeMax": "49.543034",
-        "longitudeMin": "20.11125",
-        "longitudeMax": "20.111527",
-        "latitudeOfUser": "49.542944",
-        "longitudeOfUser": "20.111388"
+        "taghash": "6Xa+9Qy%",
+        "height": "1310",
+        "points": "20",
+        "latitudeMin": "49.542854f",
+        "latitudeMax": "49.543034f",
+        "longitudeMin": "20.11125f",
+        "longitudeMax": "20.111527f"
       }
     }
   ]
